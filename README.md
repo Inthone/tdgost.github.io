@@ -1,9 +1,13 @@
-## Welcome to GitHub Pages
+## WELCOM TO TDGOST CHEAT CSGO
 
-You can use the [editor on GitHub](https://github.com/Inthone/tdgost.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+```
+ ______   _____     ______     ______     ______     ______   __  __     ______     ______     __  __    
+/\__  _\ /\  __-.  /\  ___\   /\  __ \   /\  ___\   /\__  _\ /\ \_\ \   /\  __ \   /\  ___\   /\ \/ /    
+\/_/\ \/ \ \ \/\ \ \ \ \__ \  \ \ \/\ \  \ \___  \  \/_/\ \/ \ \  __ \  \ \  __ \  \ \ \____  \ \  _"-.  
+   \ \_\  \ \____-  \ \_____\  \ \_____\  \/\_____\    \ \_\  \ \_\ \_\  \ \_\ \_\  \ \_____\  \ \_\ \_\ 
+    \/_/   \/____/   \/_____/   \/_____/   \/_____/     \/_/   \/_/\/_/   \/_/\/_/   \/_____/   \/_/\/_/ 
+                                                                                                         
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
